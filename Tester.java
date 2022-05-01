@@ -19,6 +19,7 @@ public class Tester {
 	//BinaryOp
 		testAddOp();
 		//...
+
 	//Calculators
 		testStackCalculator();
 		//...
